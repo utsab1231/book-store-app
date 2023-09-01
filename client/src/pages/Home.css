@@ -1,0 +1,21 @@
+.Home-Page {
+    width: 100%;
+    min-height: 91.5vh;
+    max-height: auto;
+}
+
+.viewBook {
+    outline: none;
+    border: 1px solid white;
+    padding: 5px 20px;
+    color: white;
+    background-color: transparent;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.viewBook:hover {
+    color: white;
+    scale: 1.1;
+}
